@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
+- 📫 How to reach me **alper.sevincler@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alpersevincler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alpersevincler/" height="30" width="40" /></a>
