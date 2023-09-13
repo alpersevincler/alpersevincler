@@ -1,12 +1,20 @@
-<h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&color=7F00FF&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Alper!;" />
+</h1>
 
-- 📫 How to reach me **alper.sevincler@gmail.com**
+<h3 align="center">A passionate Full Stack Developer from Antalya, Turkey</h3>
+
+🌱 I’m currently learning **Java Spring Backend Development.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alpersevincler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alpersevincler/" height="30" width="40" /></a>
-</p>
+<div align=""> 
+  <a href="mailto:alper.sevincler@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/alpersevincler" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="https://www.linkedin.com/in/alpersevincler/" />
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
