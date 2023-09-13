@@ -36,3 +36,12 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   
 </p>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&color=7F00FF&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🤘;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab!">
+</h3>
+
+<br/>
