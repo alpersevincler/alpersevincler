@@ -4,6 +4,8 @@
 
 <h3 align="center">A passionate Full Stack Developer from Antalya, Turkey</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </img>
+
 🎯 I’m focusing learning **Java Spring, RESTful  Backend Development**
 
 <h3 align="left">Connect with me:</h3>
