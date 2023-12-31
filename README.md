@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </img>
 
-<img align='right' src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="210">
+<img align='right' src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="200">
 
 🎯 I’m focusing learning **Java Spring, RESTful  Backend Development**
 
