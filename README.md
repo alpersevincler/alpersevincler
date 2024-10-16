@@ -8,7 +8,7 @@
 
 <img align='right' src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="200">
 
-🎯 I’m focusing learning **Full Stack Java Spring, RESTful  Backend Development**
+🎯 I’m focusing learning **Full Stack Development**
 
 <h3 align="left">Connect with me:</h3>
 <div align=""> 
