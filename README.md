@@ -43,8 +43,8 @@
 
 <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>GitHub İstatistikleri</b>
-      <i>(genişletmek için tıklayın!)</i>
+      <b>GitHub Statistics</b>
+      <i>(click to expand!)</i>
     </summary>
     
 
