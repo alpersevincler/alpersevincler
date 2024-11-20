@@ -41,6 +41,17 @@
   
 </p>
 
+<details align="center">
+    <summary style="font-weight: bold; font-size: 18px">
+      <b>GitHub İstatistikleri</b>
+      <i>(genişletmek için tıklayın!)</i>
+    </summary>
+    
+
+![Alper'in GitHub İstatisikleri](https://github-readme-stats.vercel.app/api?username=alpersevincler&show_icons=true&theme=transparent)
+  ![Alper'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersevincler&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A)
+
+</details>
 
 <hr/>
 
