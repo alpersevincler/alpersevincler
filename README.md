@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/alpersevincler"><img src="https://visitor-badge.laobi.icu/badge?page_id=alpersevincler" alt="Ziyaret"></a>
+    <a href="https://github.com/alpersevincler"><img src="https://visitor-badge.laobi.icu/badge?page_id=furkannzmnn" alt="Ziyaret"></a>
 </p>
 
 <h3 align="center">A passionate Full Stack Developer from Antalya, Turkey</h3>
