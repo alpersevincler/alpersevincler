@@ -44,7 +44,7 @@
 <details align="center">
     <summary style="font-weight: bold;">
       <b>GitHub Statistics</b>
-      <i style="font-size: 1px">(click to expand!)</i>
+      <i>(click to expand!)</i>
     </summary>
     
 
