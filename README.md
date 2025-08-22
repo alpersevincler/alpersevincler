@@ -61,3 +61,15 @@
 </h3>
 
 <br/>
+
+<!--
+<p align="center">
+    <a href="https://github.com/alpersevincler">
+        <span>
+            <img width="100%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpersevincler&theme=dracula" />
+        </span>
+    </a>
+</p>
+
+[![Alper'𝕤 𝕘𝕚𝕥𝕙𝕦𝕓 𝕒𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𝕘𝕣𝕒𝕡𝕙](https://github-readme-activity-graph.vercel.app/graph?username=alpersevincler&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)](https://github.com/alpersevincler/github-readme-activity-graph)
+-->
